@@ -1,0 +1,23 @@
+Binary Search Tree
+
+Java FX- implemented
+
+Methods implemented
+Scan and Read File
+Create FirstName & LastName tree
+Display default sorted Tree by FirstName
+Inorder
+PreOder
+PostOrder
+Search Name 
+Insert New Name
+Delete Name
+Find Name of given length 
+Display default sorted Tree by LastName
+Clear
+Exit
+
+
+
+
+
